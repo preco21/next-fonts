@@ -1,0 +1,28 @@
+{
+  "name": "@preco21/next-fonts",
+  "version": "0.0.0",
+  "description": "Import font files in your Next.js project",
+  "author": "Plusb Preco <plusb21@gmail.com>",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/preco21/next-fonts#readme",
+  "repository": "preco21/next-fonts",
+  "bugs": {
+    "url": "https://github.com/preco21/next-fonts/issues"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "nextjs",
+    "next",
+    "plugin",
+    "fonts",
+    "url-loader",
+    "file-loader"
+  ],
+  "dependencies": {
+    "file-loader": "^4.1.0",
+    "url-loader": "^2.1.0"
+  }
+}

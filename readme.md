@@ -38,8 +38,8 @@ This plugin accepts a number of options that you can customize the build:
 module.exports = withFonts({
   extensions: ['woff', 'woff2'],
   urlLoaderOptions: {
-    limit: 10000,
-  },
+    limit: 10000
+  }
 })
 ```
 

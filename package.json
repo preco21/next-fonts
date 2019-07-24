@@ -1,6 +1,6 @@
 {
   "name": "@preco21/next-fonts",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Import font files in your Next.js project",
   "author": "Plusb Preco <plusb21@gmail.com>",
   "main": "index.js",
